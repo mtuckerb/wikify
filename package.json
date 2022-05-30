@@ -2,7 +2,7 @@
   "name": "wikify",
   "displayName": "wikify",
   "description": "Hard link this file to my wiki",
-  "version": "0.0.10",
+  "version": "0.0.12",
   "publisher": "wikify",
   "repository": {
     "type": "git",
