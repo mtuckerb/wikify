@@ -3,6 +3,7 @@
   "displayName": "wikify",
   "description": "Hard link this file to my wiki",
   "version": "0.0.10",
+  "publisher": "wikify",
   "repository": {
     "type": "git",
     "url": "https://github.com/mtuckerb/wikify.git"
